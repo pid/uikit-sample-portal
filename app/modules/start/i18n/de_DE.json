@@ -1,0 +1,11 @@
+{
+  "start": {
+    "index": {
+      "header": "Startseite",
+      "itWorksPanel": {
+        "title": "{{name}} funktioniert",
+        "body": "Das Uikit wurde erfolgreich aufgesetzt und funktioniert!. Dies ist ein 'mw-panel' und kann jeglichen Text beinhalten"
+      }
+    }
+  }
+}
